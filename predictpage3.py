@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  1 09:32:37 2022
-
-@author: siddh
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  1 00:40:00 2022
-
-@author: siddh
-"""
-
-
 
 
 
