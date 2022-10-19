@@ -103,4 +103,3 @@ def show_predict_page():
         else:
             st.write('### You are not eligible for home loan')
 
-show_predict_page()
